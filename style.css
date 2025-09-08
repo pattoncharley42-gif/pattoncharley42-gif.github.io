@@ -1,6 +1,6 @@
 body {
-background: rgb(125, 198, 205);
-color: rgb(45, 45, 45);
+background: rgb(176, 26, 26);
+color: rgb(17, 16, 16);
 padding: 10px;
 font-family: Arial, sans-serif;
 }
@@ -14,7 +14,7 @@ margin: auto;
 
 /* navigation menu */
 nav {
-background: rgb(239, 80, 41);
+background: rgb(6, 6, 6);
 margin: 0 auto;
 display: flex;
 padding: 10px;
@@ -46,13 +46,13 @@ padding: 0 10px;
 
 a {
 text-decoration: none;
-color: #fff;
+color: #ffffff;
 }
 
 
 /* main container area beneath menu */
 main {
-background: rgb(245, 238, 219);
+background: rgb(98, 7, 7);
 display: flex;
 margin-top: 20px;
 }
@@ -77,7 +77,7 @@ padding: 15px;
 
 /* interests section styles */
 #interests {
-border: 4px silver ridge;
+border: 4px rgb(0, 0, 0) ridge;
 padding: 8px;
 margin-top: 20px;
 }
