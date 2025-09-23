@@ -45,10 +45,14 @@ createPlatform(600, 400, 100, 5, "yellow")
 
     
     // TODO 4 - Create Cannons
+//createCannon("wall", pos, secondsX1000, width, height)
+createCannon("right", 400, 5000, 50, 50)
+    createCannon("top", 900, 5000, 50, 50)
+    createCannon("bottom", 700, 5000, 50, 50)
+createCannon("left", 500, 5000, 50, 50)
 
 
-    
-    
+
     //////////////////////////////////
     // ONLY CHANGE ABOVE THIS POINT //
     //////////////////////////////////
