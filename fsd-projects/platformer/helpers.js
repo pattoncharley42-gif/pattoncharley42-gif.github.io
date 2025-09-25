@@ -221,7 +221,7 @@ ctx.fillRect(0, 0, canvas.width, canvas.height);
 ctx.fillStyle = "white";
 ctx.textAlign = "center";
 ctx.font = "bold 72px Arial";
-ctx.fillText("you win I guess (-_-)", canvas.width / 2, canvas.height / 2);
+ctx.fillText("You Win!!", canvas.width / 2, canvas.height / 2);
 }
 
 function drawRobot() {
