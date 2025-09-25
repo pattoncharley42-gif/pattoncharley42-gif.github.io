@@ -42,8 +42,8 @@ createPlatform(600, 400, 100, 5, "yellow")
     // TODO 3 - Create Collectables
 //createCollectable("type", xPos, yPos, gravity?, bounce? Between 0-1, minX = null, maxX = null, speed = 1)
 //"type" can be 6 things... database diamond grace kennedi max steve
-createCollectable("database", 400, 400)
-createCollectable("toki", 400, 0.1)
+createCollectable("toki", 600, 200)
+createCollectable("toki", 700, 400, 0.1)
 createCollectable("toki", 600, 100, 0.1)
 
     
